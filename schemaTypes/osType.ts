@@ -2,7 +2,7 @@ import {defineField, defineType} from 'sanity'
 
 export const osType = defineType({
   name: 'os',
-  title: 'Operative system',
+  title: 'Operating system',
   type: 'document',
   fields: [
     defineField({
